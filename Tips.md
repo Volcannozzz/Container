@@ -21,4 +21,4 @@ kubectl get po --all-namespaces
 
 ```
 
-运行 Dry  打印相应的API对象而不创建它们。
+运行 Dry  打印相应的API对象而不创建它们。  
